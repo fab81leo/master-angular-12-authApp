@@ -3,6 +3,6 @@
 
 export const environment = {
     production: true,
-    // ** Provisionalmente el baseUrl de producción sera el mismo **
-    baseUrl: 'http://localhost:4000/api'
+    // ** BaseUrl de producción **
+    baseUrl: 'https://curso-angular-auth.herokuapp.com/api'
 }
